@@ -1,4 +1,4 @@
-# Vuejs-Todo-App
+# RESTful end point using nodejs
 
 A simple example of a RESTful nodejs web server using Express and mongoDB
 
