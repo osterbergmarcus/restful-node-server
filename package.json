@@ -1,0 +1,17 @@
+{
+  "name": "restful-node-server",
+  "version": "1.0.0",
+  "description": "A simple example of a RESTful nodejs web server using Express and mongoDB",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.0.1",
+    "express": "^4.0.0",
+    "firebase": "^2.3.2",
+    "mongoose": "^4.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
